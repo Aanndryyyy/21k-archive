@@ -1,13 +1,13 @@
 <?php include 'header.php'; ?>
 
-  <body style="background-color: #fafafa;">
+  <body>
 
     <!-- Navigation -->
     <nav style="box-shadow: 0 2px 2px -2px rgba(0,0,0,.15);">
       <div class="nav-wrapper">
         <div class="shadow">
           <div class="container" style="box-shadow: 0 2px 2px -2px rgba(0,0,0,.15);">
-            <img class="hide-on-med-and-down" src="img/21k-logo.svg" height="40" style="padding: 0 15px; display: inline-block; position: absolute; margin-top: 4px;">
+            <img class="hide-on-med-and-down" src="img/21k-logo.svg" height="30" style="padding: 0 15px; display: inline-block; position: absolute; margin-top: 9px;">
             <a href="#" class="brand-logo" style="margin-left: 80px">TALLINNA XXI KOOLI ARHIIV</a>
             <a href="#" data-activates="mobile-demo" class="button-collapse" style="margin-left: 0; color: rgba(0,0,0,.8);"><i class="material-icons">menu</i></a>
             
