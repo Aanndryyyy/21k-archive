@@ -15,6 +15,8 @@
   </head>
 
   <body style="background-color: #fafafa;">
+
+    <!-- Navigation -->
     <nav style="box-shadow: 0 2px 2px -2px rgba(0,0,0,.15);">
       <div class="nav-wrapper">
         <div class="shadow">
@@ -39,6 +41,7 @@
       </div>
     </nav>
 
+    <!-- Search -->
     <div class="container">
       <div class="otsing">
         <h1 class="center-align" style="font-weight: 200;margin-top:100px; margin-bottom: 60px; font-size: 5rem;">OTSING</h1>
@@ -54,6 +57,7 @@
         <div class="col m3 s12"><div class="stat"><h1 style="font-size: 1.25rem; width: 50%; margin: 0 auto; text-align: center; text-transform: uppercase; font-weight: 300; padding-top: 14px;">Statistika<br><small style="font-size: 1.25rem; font-weight: 600; line-height: 30px;">0000</small></h1></div></div>
       </div>
 
+      <!-- Slides -->
       <div class="gallery-hero">
         <img src="img/p1.jpg" width="192">
         <img src="img/p2.png" width="192">
@@ -77,6 +81,7 @@
       </div>
     </div>
 
+    <!-- Footer -->
     <footer class="page-footer" style="padding-top:0;">
       <div class="footer-copyright white" style="padding: 0 15px;">
         <div class="container" style="color: rgba(0,0,0,.44); font-size: .875rem;">
