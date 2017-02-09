@@ -41,12 +41,9 @@
 
     <div class="container">
       <div class="otsing">
-        <h1 class="center-align" style="font-weight: 200;margin-top:100px; margin-bottom: 60px;">OTSING</h1>
-        <form>
-          <input placeholder="Sisesta märksõna, viide, vms…" id="otsi" type="text" class="center-align autocomplete" style="font-weight: 300; font-size: 1.25rem;">
-          <button class="btn waves-effect waves-light" style="float: right; margin-top: 10px;" type="submit" name="action">Otsi
-            <i class="material-icons right">send</i>
-          </button>
+        <h1 class="center-align" style="font-weight: 200;margin-top:100px; margin-bottom: 60px; font-size: 5rem;">OTSING</h1>
+        <form autocomplete="off">
+          <input placeholder="Sisesta märksõna, viide, vms…" id="otsi" type="text" class="center-align autocomplete" style="font-weight: 300; font-size: 1.25rem;" autocomplete="off">
         </form>
       </div>
 
@@ -82,8 +79,8 @@
 
     <footer class="page-footer" style="padding-top:0;">
       <div class="footer-copyright white" style="padding: 0 15px;">
-        <div class="container" style="color: rgba(0,0,0,.44);">
-        © 2014 Copyright Text
+        <div class="container" style="color: rgba(0,0,0,.44); font-size: .875rem;">
+        <a href="http://21k.ee/" class="footer-nav-item">TALLINNA XXI KOOL</a> © 2017
         <div class="right" style="text-transform: uppercase;">
           <a href="#" class="footer-nav-item" style="margin-right: 15px;">Kontakt</a>
           <a href="#" class="footer-nav-item">Veateade</a>
