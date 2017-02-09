@@ -1,18 +1,4 @@
-<?php //include 'header.php'; ?>
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <!--Import Google Icon Font-->
-    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/slick.css"/>
-
-    <!--Let browser know website is optimized for mobile-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  </head>
+<?php include 'header.php'; ?>
 
   <body style="background-color: #fafafa;">
 
@@ -24,6 +10,8 @@
             <img class="hide-on-med-and-down" src="img/21k-logo.svg" height="40" style="padding: 0 15px; display: inline-block; position: absolute; margin-top: 4px;">
             <a href="#" class="brand-logo" style="margin-left: 80px">TALLINNA XXI KOOLI ARHIIV</a>
             <a href="#" data-activates="mobile-demo" class="button-collapse" style="margin-left: 0; color: rgba(0,0,0,.8);"><i class="material-icons">menu</i></a>
+            
+            <!-- Navigation Items -->
             <ul id="nav-mobile" class="right hide-on-med-and-down">
               <li><a class="active" href="#">Avaleht</a></li>
               <li><a href="#">Arhiivid</a></li>
@@ -81,49 +69,4 @@
       </div>
     </div>
 
-    <!-- Footer -->
-    <footer class="page-footer" style="padding-top:0;">
-      <div class="footer-copyright white" style="padding: 0 15px;">
-        <div class="container" style="color: rgba(0,0,0,.44); font-size: .875rem;">
-        <a href="http://21k.ee/" class="footer-nav-item">TALLINNA XXI KOOL</a> © 2017
-        <div class="right" style="text-transform: uppercase;">
-          <a href="#" class="footer-nav-item" style="margin-right: 15px;">Kontakt</a>
-          <a href="#" class="footer-nav-item">Veateade</a>
-        </div>
-        </div>
-      </div>
-    </footer>
-
-    <!--Import jQuery before materialize.js-->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="js/materialize.min.js"></script>
-    <script type="text/javascript" src="js/slick.js"></script>
-
-    <script type="text/javascript">
-    	$(document).ready(function(){
-        $(".button-collapse").sideNav();
-        $('input.autocomplete').autocomplete({
-          data: {
-            "Apple": null,
-            "Microsoft": null,
-            "Google": 'http://placehold.it/250x250'
-          },
-          limit: 20, // The max amount of results that can be shown at once. Default: Infinity.
-        });
-			  $('.gallery-hero').slick({
-			    slidesToShow: 3,
-          autoplay: true,
-          autoplaySpeed: 5000,
-          dots: false,
-          prevArrow: false,
-          nextArrow: false,
-          variableWidth: true,
-          centerMode: true,
-          slidesToScroll: 1
-			  });
-			});
-    </script>
-  </body>
-</html>
-
-<?php //include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
