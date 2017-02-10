@@ -38,7 +38,7 @@
         </form>
       </div>
 
-      <div class="row" style="margin-top: 150px;">
+      <div class="row" style="margin-top: 100px;">
         <div class="col m3 s12"><div class="stat"><h1 style="font-size: 1.25rem; width: 50%; margin: 0 auto; text-align: center; text-transform: uppercase; font-weight: 300; padding-top: 14px;">Statistika<br><small style="font-size: 1.25rem; font-weight: 600; line-height: 30px;">0000</small></h1></div></div>
         <div class="col m3 s12"><div class="stat"><h1 style="font-size: 1.25rem; width: 50%; margin: 0 auto; text-align: center; text-transform: uppercase; font-weight: 300; padding-top: 14px;">Statistika<br><small style="font-size: 1.25rem; font-weight: 600; line-height: 30px;">0000</small></h1></div></div>
         <div class="col m3 s12"><div class="stat"><h1 style="font-size: 1.25rem; width: 50%; margin: 0 auto; text-align: center; text-transform: uppercase; font-weight: 300; padding-top: 14px;">Statistika<br><small style="font-size: 1.25rem; font-weight: 600; line-height: 30px;">0000</small></h1></div></div>
