@@ -101,7 +101,7 @@ footer.page-footer > .footer-copyright > .container {
 	 color: rgba(0,0,0,.8);
 }
 
-/* Results.php
+/* results.php
 ===================== */
 .results-otsing {
 	margin: 50px 0 20px 0;
@@ -166,5 +166,46 @@ footer.page-footer > .footer-copyright > .container {
 
 	.meta-info-value {
 		font-weight: bold;
+	}
+}
+
+/* view.php
+===================== */
+.bar {
+	background-color: #FFF;
+	box-shadow: 0 1px 4px rgba(0,0,0,.04);
+	border: 1px solid rgba(0,0,0,.09);
+	margin: 25px 0;
+	padding-left: 10px;
+
+	a {
+		font-size: 12px;
+		font-weight: 300;
+		color: rgba(0,0,0,.44);
+		text-transform: uppercase;
+	}
+
+	a:hover {
+		color: rgba(0,0,0,.8);
+	}
+}
+
+.details {
+	background-color: #FFF;
+	box-shadow: 0 1px 4px rgba(0,0,0,.04);
+	border: 1px solid rgba(0,0,0,.09);
+	padding: 15px 20px;
+
+	.peace {
+		color: rgba(0,0,0,.44);
+		font-weight: 300;
+		font-size: 14px;
+		margin-bottom: 15px;
+
+		span {
+			color: rgba(0,0,0,.8);
+			font-weight: 500;
+			padding-left: 20px;
+		}
 	}
 }
