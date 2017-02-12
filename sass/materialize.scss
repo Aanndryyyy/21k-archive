@@ -41,31 +41,5 @@
 @import "components/date_picker/default.date";
 @import "components/date_picker/default.time";
 
-body {
-	background-color: #fafafa;
-}
-
-.shadow {
-  @media #{$medium-and-up} {
-	display: flex;
-	margin-left: auto;
-	margin-right: auto;
-	}
-}
-
-.stat {
-	height: 70px;
-	background-color: #FFF;
-	box-shadow: 0 1px 4px rgba(0,0,0,.04);
-	border: 1px solid rgba(0,0,0,.09);
-	margin-top: 10px;
-}
-
-.footer-nav-item {
-	 color: rgba(0,0,0,.44);
-	 font-size: .875rem;
-}
-
-.footer-nav-item:hover {
-	 color: rgba(0,0,0,.8);
-}
+// Custom
+@import "styles";

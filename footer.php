@@ -1,9 +1,9 @@
 <!-- Footer -->
-    <footer class="page-footer" style="padding-top:0;">
-      <div class="footer-copyright white" style="padding: 0 15px;">
-        <div class="container" style="color: rgba(0,0,0,.44); font-size: .875rem;">
+    <footer class="page-footer">
+      <div class="footer-copyright white">
+        <div class="container">
         <a href="http://21k.ee/" class="footer-nav-item">TALLINNA XXI KOOL</a> © 2017
-        <div class="right" style="text-transform: uppercase;">
+        <div class="right">
           <a href="#" class="footer-nav-item" style="margin-right: 15px;">Kontakt</a>
           <a href="#" class="footer-nav-item">Veateade</a>
         </div>
