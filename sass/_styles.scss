@@ -58,6 +58,12 @@ nav {
 	}
 }
 
+.results-table {
+	background-color: #FFF;
+	box-shadow: 0 1px 4px rgba(0,0,0,.04);
+	border: 1px solid rgba(0,0,0,.09);
+}
+
 .otsing {
 	margin: 100px 0;
 
@@ -93,4 +99,72 @@ footer.page-footer > .footer-copyright > .container {
 
 .footer-nav-item:hover {
 	 color: rgba(0,0,0,.8);
+}
+
+/* Results.php
+===================== */
+.results-otsing {
+	margin: 50px 0 20px 0;
+}
+
+.results-table {
+	margin-bottom: 100px;
+	table {
+		thead {
+			text-transform: uppercase;
+			tr {
+				th {
+					font-weight: 200;
+					border-left: 1px solid rgba(0,0,0,.05);
+					padding: 5px 5px 5px 10px;
+				}
+
+				th:first-child {
+					border: none;
+				}
+
+				.type {
+					width: 60px;
+				}
+			}
+		}
+
+		tbody {
+			tr {
+				td {
+					font-weight: 200;
+					color: rgba(0,0,0,.44);
+					border-left: 1px solid rgba(0,0,0,.05);
+					padding: 5px 10px 5px 10px;
+				}
+
+				td:first-child {
+					border: none;
+				}
+
+				.type-field {
+					text-align: center;
+					padding: 0;
+				}
+			}
+
+			tr:last-child {
+				border-bottom: none;
+			}
+		}
+	}
+}
+
+.meta-info {
+	font-size: 10px;
+	margin: -2px 0 0 0;
+
+	li {
+		display: inline;
+		margin-right: 10px;
+	}
+
+	.meta-info-value {
+		font-weight: bold;
+	}
 }
