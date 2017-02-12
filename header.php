@@ -6,6 +6,7 @@
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script src="https://use.fontawesome.com/e308b988ce.js"></script>
   <link rel="stylesheet" type="text/css" href="css/slick.css"/>
 
   <!--Let browser know website is optimized for mobile-->
