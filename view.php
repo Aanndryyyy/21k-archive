@@ -15,7 +15,7 @@
 				</div>
 				<div class="peace">
 					Kes/mis on fotol<br>
-					<span>Koolijuhataja (direktor) Enn Murdmaa (Ernst Martinson) portree. Koolijuhataja (direktor) Enn Murdmaa (Ernst Martinson) portree.</span>
+					<p>Koolijuhataja (direktor) Enn Murdmaa (Ernst Martinson) portree. Võib panna pikka teksti, fits itself correctly.</p>
 				</div>
 				<div class="peace">
 					Kus foto tehtud on<br>
