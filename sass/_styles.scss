@@ -151,6 +151,14 @@ footer.page-footer > .footer-copyright > .container {
 			tr:last-child {
 				border-bottom: none;
 			}
+
+			tr:hover {
+				cursor: pointer;
+				background-color: rgba(0,0,0,.05);
+		    transition: background-color 50ms ease;
+					-webkit-transition: background-color 50ms ease;
+			    -ms-transition: background-color 50ms ease;
+			}
 		}
 	}
 }
