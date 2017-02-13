@@ -27,6 +27,10 @@ nav {
 
 .brand-logo {
 	margin-left: 80px;
+
+	@media #{$medium-and-down} {
+		margin-left: 0;
+	}
 }
 
 .mob-menu {
