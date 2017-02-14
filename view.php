@@ -1,7 +1,10 @@
 <?php include 'header.php'; ?>
 
 <div class="container">
-	<div class="bar"><a href="#"><i class="fa fa-angle-double-left" aria-hidden="true"></i> Tagasi otsingusse</a></div>
+	<div class="bar">
+		<a href="#"><i class="fa fa-angle-double-left" aria-hidden="true"></i> Tagasi otsingusse</a>
+		<p href="#" class="right idcode"><span>Kood:</span> 21K-Fo-2.1-2</p>
+	</div>
 
 	<div class="row">
 		<div class="col s12 m5">

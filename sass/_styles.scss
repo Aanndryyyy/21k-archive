@@ -197,6 +197,20 @@ footer.page-footer > .footer-copyright > .container {
 		text-transform: uppercase;
 	}
 
+	.idcode {
+		font-size: 12px;
+		font-weight: 300;
+		margin-top: 2px;
+		margin-right: 10px;
+		color: rgba(0,0,0,.8);
+		text-transform: none;
+
+		span {
+			color: rgba(0,0,0,.44);
+			margin-right: 5px;
+		}
+	}
+
 	a:hover {
 		color: rgba(0,0,0,.8);
 	}
