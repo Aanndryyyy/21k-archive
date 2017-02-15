@@ -1,4 +1,29 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';
+
+if (isset($_GET['view'])) {
+	$page = $_GET['view'];
+
+	if ($page == 'img') {
+		echo "img";
+
+	} elseif ($page == 'audio') {
+		echo "audio";
+
+	} elseif ($page == 'video') {
+		echo "video";
+		
+	} elseif ($page == 'file') {
+		echo "file";
+	
+	} else {
+		echo "error: no such page";
+		exit;
+	}
+} else {
+	echo "error: no such item";
+	exit;
+}
+?>
 
 <div class="container">
 	<div class="bar">
