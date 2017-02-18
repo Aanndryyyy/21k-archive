@@ -33,6 +33,11 @@
 					<td>21K-Fa-2.3-2</td>
 					<td>Koolijuhataja (direktor) Enn Murdmaa (Ernst Martinson) käskkiri.<ul class="meta-info"><li>Aasta: <span class="meta-info-value">1980</span></li></ul></td>
 				</tr>
+				<tr onclick="window.document.location='view.php?view=audio';">
+					<td class="type-field"><i class="fa fa-file-audio-o" aria-hidden="true"></i></td>
+					<td>21K-Fe-2.4-2</td>
+					<td>Koolijuhataja (direktor) Enn Murdmaa (Ernst Martinson) audio.<ul class="meta-info"><li>Aasta: <span class="meta-info-value">1980</span></li><li>Pikkus: <span class="meta-info-value">5min</span></li></ul></td>
+				</tr>
 			</tbody>
 		</table>
 	</div>
