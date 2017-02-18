@@ -15,6 +15,8 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/slick.js"></script>
+    <script src="https://cdn.plyr.io/2.0.11/plyr.js"></script>
+    <script>plyr.setup();</script>
 
     <script type="text/javascript">
     	$(document).ready(function(){
