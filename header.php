@@ -7,8 +7,12 @@
   <!-- Styles -->
   <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
   <script src="https://use.fontawesome.com/e308b988ce.js"></script>
-  <link rel="stylesheet" type="text/css" href="css/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="css/slick.css">
   <link rel="stylesheet" href="https://cdn.plyr.io/2.0.11/plyr.css">
+
+  <!-- pace -->
+  <script src="js/pace.min.js"></script>
+  <link href="css/pace.css" rel="stylesheet" >
 
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
