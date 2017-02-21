@@ -245,7 +245,20 @@ footer.page-footer > .footer-copyright > .container {
 	border-top: none !important;
 }
 
+.materialboxed {
+	margin-bottom: 20px;
+}
+
 .action-buttons {
 	margin-top: 5px;
 	float:right;
+}
+
+.preview-icon {
+	text-align: center;
+	padding-top: 75px;
+
+	@media #{$medium-and-down} {
+		padding-top: 0;
+	}
 }

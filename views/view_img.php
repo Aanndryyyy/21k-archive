@@ -7,6 +7,7 @@
 	<div class="row">
 		<div class="col s12 m5">
 			<img class="materialboxed" src="img/21K-Fo-2.1-2.jpg" width="100%">
+			<img class="materialboxed" src="img/21K-Fo-2.1-2.jpg" width="100%">
 		</div>
 		<div class="col s12 m7">
 			<div class="details">
