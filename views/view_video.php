@@ -48,6 +48,10 @@
 				<a href="#"><div class="chip">Portree</div></a>
 				<a href="#"><div class="chip">1980</div></a>
 			</div>
+			<div class="action-buttons">
+				<a class="waves-effect waves-light btn">Ava uues aknas</a>
+				<a class="waves-effect waves-light btn deep-orange">Lae alla</a>
+			</div>
 		</div>
 	</div>
 </div>
