@@ -8,7 +8,7 @@
 		<div class="col s12 m5">
 			<div class="preview-icon">
 				<i class="fa fa-file-archive-o fa-5x" aria-hidden="true"></i>
-				<p>Eelvaade puudub</p>
+				<p>eelvaade puudub</p>
 			</div>
 			<!--<img class="materialboxed" src="img/21K-Fo-2.1-2.jpg" width="100%">-->
 		</div>
