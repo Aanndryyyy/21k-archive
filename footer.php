@@ -4,7 +4,7 @@
         <div class="container">
         <a href="http://21k.ee/" class="footer-nav-item">TALLINNA XXI KOOL</a> © 2017
         <div class="right">
-          <a href="#" class="footer-nav-item" style="margin-right: 15px;">Kontakt</a>
+          <a href="contact.php" class="footer-nav-item" style="margin-right: 15px;">Kontakt</a>
           <a href="#" class="footer-nav-item">Veateade</a>
         </div>
         </div>
