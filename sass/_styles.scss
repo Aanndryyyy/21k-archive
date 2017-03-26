@@ -123,6 +123,34 @@ footer.page-footer > .footer-copyright > .container {
 	 color: rgba(0,0,0,.8);
 }
 
+/* contact.php
+===================== */
+.page-headr {
+	margin: 50px 0 40px;
+
+	h1 {
+		font-weight: 200;
+		font-size: 5rem;
+		margin: 0;
+	}
+}
+
+.mail, .phone {
+	text-align: center;
+
+	i {
+		margin-right: 7px;
+		font-size: 24px;
+		vertical-align: bottom;
+	}
+}
+
+.contact-info {
+	margin-top: 30px;
+	text-align: center;
+	font-weight: 300;
+}
+
 /* results.php
 ===================== */
 .results-otsing {
