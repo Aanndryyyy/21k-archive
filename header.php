@@ -33,6 +33,7 @@
             <!-- Add class="active" to <a> to mark active tab-->
             <li><a href="#">Avaleht</a></li>
             <li><a href="#">Arhiivid</a></li>
+            <li><a href="#">Arhiivist</a></li>
             <li><a href="#">Koolist</a></li>
             <li><a href="#">koostööpartnerid</a></li>
           </ul>
@@ -40,6 +41,7 @@
             <!-- Add class="active" to <a> to mark active tab-->
             <li><a href="#">Avaleht</a></li>
             <li><a href="#">Arhiivid</a></li>
+            <li><a href="#">Arhiivist</a></li>
             <li><a href="#">Koolist</a></li>
             <li><a href="#">koostööpartnerid</a></li>
           </ul>
